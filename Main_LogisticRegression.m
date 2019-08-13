@@ -1,5 +1,5 @@
 
-%This program implements Logistic Regression to classify two class of data
+%This program implements Logistic Regression to classify two classes of data
 %in data space. It uses fminunc() function to find the optimal coefficients
 %of the model. In the output graphs, two classes of data points as well as
 %decision boundary is represented. Also the accuracy of the model on
